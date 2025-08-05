@@ -5,6 +5,7 @@
   "main": "script.js",
   "scripts": {
     "start": "npx serve .",
+    "dev2": "which npx; npm install -g npx; npx serve .",
     "dev": "npx serve .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
