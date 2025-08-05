@@ -1,2 +1,2 @@
 # Web-App-with-Coding-Basics
-This shows some web coding basics.
+This is a web application to demonstrate some web coding basics.
